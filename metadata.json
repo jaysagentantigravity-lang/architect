@@ -1,0 +1,7 @@
+{
+  "name": "Architect AI - Collaborative App Designer",
+  "description": "A split-screen brainstorming environment where an AI architect continuously drafts your application design document in real-time as you discuss ideas via text or voice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
